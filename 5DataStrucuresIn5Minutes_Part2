@@ -19,7 +19,7 @@ int main () {
 	cout << s.top ()   << endl; // outputs 1
 	cout << s.size ()  << endl; // outputs 1
 
-	// 2 - stack
+	// 2 - queue
 
 	queue<int> q;
 	cout << q.size ()  << endl; // outputs 0
